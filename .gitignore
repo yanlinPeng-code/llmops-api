@@ -3,3 +3,5 @@ tmp/*
 storage/*
 .idea/*
 venv/*
+/study/*
+/tmp/*
